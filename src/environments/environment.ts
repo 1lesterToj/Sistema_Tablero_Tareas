@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  BASE_URL_STT: 'https://test.sifco.org/TableroTareas_WS/rest'
 };
 
 /*

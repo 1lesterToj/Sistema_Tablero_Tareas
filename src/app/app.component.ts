@@ -23,7 +23,7 @@ export class AppComponent {
   }
 
   async datosTablero() {
-    console.log('hola')
+    console.log('hola como estas--->')
     this.parametros= {
       Accion : 1,
       WsGestionTablero: []
